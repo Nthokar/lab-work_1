@@ -17,7 +17,7 @@
 - к.э.н., доцент Панов М.А.
 - ст. преп., Фадеев В.О.
 
-[![N|Solid](https://https://github.com/Nthokar/lab-work_1/tree/main/screenshots/1.jpg)](https://nodesource.com/products/nsolid)
+[![N|Solid](Скриншот 1)](https://https://github.com/Nthokar/lab-work_1/tree/main/screenshots/1.jpg)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
