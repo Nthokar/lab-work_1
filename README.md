@@ -92,27 +92,27 @@ def itrate(a, b, x, y, times):
 
 	Шаг 1 Инициализация и модель итеративной оптимизации
 
-	[(Шаг 1)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/5.jpg)
+[(Шаг 1)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/5.jpg)
 
 	Шаг 2 На второй итерации отображаются значения параметров, значения потерь и эффекты визуализации после итерации
 
-	[(Шаг 2)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/6.jpg)
+[(Шаг 2)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/6.jpg)
 
 	Шаг 3 Третья итерация показывает значения параметров, значения потерь и визуализацию после итерации
 
-	[(Шаг 3)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/7.jpg)
+[(Шаг 3)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/7.jpg)
 
 	Шаг 4 На четвертой итерации отображаются значения параметров, значения потерь и эффекты визуализации
 
-	[(Шаг 4)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/8.jpg)
+[(Шаг 4)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/8.jpg)
 
 	Шаг 5 Пятая итерация показывает значение параметра, значения потерь и эффект визуализации после итерации
 
-	[(Шаг 5)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/9.jpg)
+[(Шаг 5)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/9.jpg)
 
 	Шаг 6 10000-я итерация, показывающая значения параметров, потери и эффект визуализацию после итерации
 
-	[(Шаг 6)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/10.jpg)
+[(Шаг 6)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/10.jpg)
 
 
 ## Задание 3
