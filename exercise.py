@@ -30,16 +30,17 @@ def iterate(a, b, x, y, times):
 		a,b = optimize(a,b,x,y)
 	return a,b
 
-a = np.random.rand(1)
-print(a)
-b = np.random.rand(1)
-print(b)
 Lr = 0.000001
-
-for i in range(0):
-	a,b = iterate(a,b,x,y,2)
-	prediction = model(a,b,x)
-	loss = loss_function(a, b, x, y)
-	print(a, b, loss)
-	plt.scatter(x, y)
-	plt.plot(x, prediction)
+def generate(iteration_count):
+	a = np.random.rand(1)
+	b = np.random.rand(1)
+	result = []
+	for i in range(iteration_count):
+		a,b = iterate(a,b,x,y,2)
+		prediction = model(a,b,x)
+		loss = loss_function(a, b, x, y)
+		print(a, b, loss)
+		plt.scatter(x, y)
+		plt.plot(x, prediction)
+		result.append((a,b, loss))
+	return result
