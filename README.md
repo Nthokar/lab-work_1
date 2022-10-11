@@ -41,39 +41,35 @@
 - В облачном сервисе google console подключить API для работы с google
 sheets и google drive.
 
-[(Скриншот google cloud)](https://github.com/Nthokar/lab-work_1/screenshots/lab_2/2.1.1.jpg)
+[(Скриншот google cloud)](https://github.com/Nthokar/lab-work_1/tree/lab_work_2/screenshots/lab_22.1.1.jpg)
 
 - Реализовать запись данных из скрипта на python в google-таблицу. Данные
 описывают изменение темпа инфляции на протяжении 10 отсчётных периодов, с
 учётом стоимости игрового объекта в каждый период.
 
-[(Скриншот кода на пайтон)](https://github.com/Nthokar/lab-work_1/screenshots/lab_2/2.1.jpg)
-[(Скриншот google sheet)](https://github.com/Nthokar/lab-work_1/screenshots/lab_2/2.2.jpg)
+[(Скриншот кода на пайтон)](https://github.com/Nthokar/lab-work_1/tree/lab_work_2/screenshots/lab_22.1.jpg)
+[(Скриншот google sheet)](https://github.com/Nthokar/lab-work_1/tree/lab_work_2/screenshots/lab_22.2.jpg)
 
 - Создать новый проект на Unity, который будет получать данные из google-
 таблицы, в которую были записаны данные в предыдущем пункте.
 
-[(Скриншот проекта Unity)](https://github.com/Nthokar/lab-work_1/screenshots/lab_2/2.3.jpg)
+[(Скриншот проекта Unity)](https://github.com/Nthokar/lab-work_1/tree/lab_work_2/screenshots/lab_22.3.jpg)
 
 - Написать функционал на Unity, в котором будет воспризводиться аудио-
 файл в зависимости от значения данных из таблицы.
 
-[(Скриншот проекта Unity)](https://github.com/Nthokar/lab-work_1/screenshots/lab_2/2.4.jpg)
-[(Скриншот скрипта на c#)](https://github.com/Nthokar/lab-work_1/screenshots/lab_2/2.4.2.jpg)
+[(Скриншот проекта Unity)](https://github.com/Nthokar/lab-work_1/tree/lab_work_2/screenshots/lab_22.4.jpg)
+[(Скриншот скрипта на c#)](https://github.com/Nthokar/lab-work_1/tree/lab_work_2/screenshots/lab_22.4.2.jpg)
 
 ## Задание 2
 ### Реализовать запись в Google-таблицу набора данных, полученных с помощью линейной регрессии из лабораторной работы № 1
 
  - Напсать функцию для кеширования промежуточных данных перед отправкой запросов на размешение в гугл таблице
-[(Функция для генирации данных из лр 1)](https://github.com/Nthokar/lab-work_1/screenshots/lab_2/2.7.jpg)
+[(Функция для генирации данных из лр 1)](https://github.com/Nthokar/lab-work_1/tree/lab_work_2/screenshots/lab_22.7.jpg)
 
 - Написать функцию для отправки запроса на размещение данных полученных в лр1
-[(Функция отправки запроса для размещения данных из лр 1)](https://github.com/Nthokar/lab-work_1/screenshots/lab_2/2.8.jpg)
-[(данные из лр1 в гугл таблице)](https://github.com/Nthokar/lab-work_1/screenshots/lab_2/2.6.jpg)
-
-
-
-
+[(Функция отправки запроса для размещения данных из лр 1)](https://github.com/Nthokar/lab-work_1/tree/lab_work_2/screenshots/lab_22.8.jpg)
+[(данные из лр1 в гугл таблице)](https://github.com/Nthokar/lab-work_1/tree/lab_work_2/screenshots/lab_2/2.6.jpg)
 
 ## Задание 3
 ### Самостоятельно разработать сценарий воспроизведения звукового сопровождения в Unity в зависимости от изменения считанных данных в задании 2
