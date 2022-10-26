@@ -82,10 +82,10 @@
 	![image](screenshots/7.jpg)
 	
 	### Скриншот работы 9-х копий
-	![image](8.jpg)
+	![image](screenshots/8.jpg)
 	
 	### Скриншот работы 27-х копий
-	![image](9.jpg)
+	![image](screenshots/9.jpg)
 	
 	После завершения обучения проверьте работу модели.
 	
