@@ -52,15 +52,14 @@
 	o mlagents 0.28.0;
 	o torch 1.7.1;
 	
-Скриншот слздания MLAgent
+### Скриншот слздания MLAgent
+![image](screenshots/1.jpg)
 
-![1.jpg](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/)
+### Скриншот установки библиотеки mlagent
+![image](screenshots/2.jpg)
 
-![image](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/1.jpg)
-
-[(Скриншот установки библиотеки mlagent](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/2.jpg)
-
-[(Скриншот установки библиотеки torch и перехода в дерикторию проекта)](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/3.jpg)
+### Скриншот установки библиотеки torch и перехода в дерикторию проекта
+![image](screenshots/3.jpg)
 
 - Создайте на сцене плоскость, куб и сферу так, как показано на рисунке
   ниже. Создайте простой C# скрипт-файл и подключите его к сфере:
@@ -73,23 +72,28 @@
   доступный в папке с файлами проекта по ссылке.
   Запустите работу ml-агента
   
-  [(Скриншот работы ml-агента)](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/10.jpg)
+### Скриншот работы ml-агента
+![image](screenshots/10.jpg)
   
 - Вернитесь в проект Unity, запустите сцену, проверьте работу ML-Agent’a.
 	Сделайте 3, 9, 27 копий модели «Плоскость-Сфера-Куб», запустите
 	симуляцию сцены и наблюдайте за результатом обучения модели.
+	### Скриншот работы 3-х копий
+	![image](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/7.jpg)
 	
-	[(Скриншот работы 3-х копий)](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/7.jpg)
+	### Скриншот работы 9-х копий
+	![image](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/8.jpg)
 	
-	[(Скриншот работы 9-х копий)](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/8.jpg)
-	
-	[(Скриншот работы 27-х копий)](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/9.jpg)
+	### Скриншот работы 27-х копий
+	![image](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/9.jpg)
 	
 	После завершения обучения проверьте работу модели.
 	
 	Сделайте выводы.
 	
-	После завершения обучения нейронная сеть научилась быстро и безошибочно сближаться с целью
+	После завершения обучения нейронная сеть научилась быстро и безошибочно сближаться с целью,
+	чем больше повтроренний совершает нейросеть тем лучше рещультат,увеличения количества повторенний можно добиться
+	создавая несколько полей для обучения нейросети.
   
 ## Задание 2
 ### Подробно опишите каждую строку файла конфигурации
