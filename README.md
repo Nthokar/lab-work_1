@@ -54,7 +54,7 @@
 	
 Скриншот слздания MLAgent
 
-![1](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/1.jpg)
+![1.jpg](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/)
 
 ![image](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/1.jpg)
 
