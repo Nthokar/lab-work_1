@@ -51,8 +51,8 @@
    а также для скачивания необходимых библиотек:
 	o mlagents 0.28.0;
 	o torch 1.7.1;
-
-[(Скриншот слздания MLAgent)](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/1.jpg)
+Скриншот слздания MLAgent
+[(image)](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/1.jpg)
 
 [(Скриншот установки библиотеки mlagent](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/2.jpg)
 
