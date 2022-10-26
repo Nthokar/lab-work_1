@@ -79,13 +79,13 @@
 	Сделайте 3, 9, 27 копий модели «Плоскость-Сфера-Куб», запустите
 	симуляцию сцены и наблюдайте за результатом обучения модели.
 	### Скриншот работы 3-х копий
-	![image](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/7.jpg)
+	![image](screenshots/7.jpg)
 	
 	### Скриншот работы 9-х копий
-	![image](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/8.jpg)
+	![image](8.jpg)
 	
 	### Скриншот работы 27-х копий
-	![image](https://github.com/Nthokar/lab-work_1/tree/lab_work_3/screenshots/9.jpg)
+	![image](9.jpg)
 	
 	После завершения обучения проверьте работу модели.
 	
