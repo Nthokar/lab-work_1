@@ -49,7 +49,7 @@
 
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/NAND_Unity.jpg)
 
-[!image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/XOR_Unity.jpg)
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/XOR_Unity.jpg)
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох от обучения.
 
