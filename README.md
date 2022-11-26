@@ -41,16 +41,15 @@
 	NAND | дать комментарий о корректности работы
 	XOR | дать комментарий о корректности работы
 
-[!image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/AND.png)
-
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/OR_Unity.png)
 
 - Для Unity в отчете привести скриншоты вывода сообщения Hello World в консоль.
 
-[!image](https://github.com/Nthokar/lab-work_1/tree/lab_work_4/screenshots/AND_Unity.png)
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/AND_Unity.png)
 
-[!image](https://github.com/Nthokar/lab-work_1/tree/lab_work_4/screenshots/NAND_Unity.png)
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/NAND_Unity.png)
 
-[!image](https://github.com/Nthokar/lab-work_1/tree/lab_work_4/screenshots/XOR_Unity.png)
+[!image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/XOR_Unity.png)
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох от обучения.
 
