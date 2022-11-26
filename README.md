@@ -41,8 +41,7 @@
 	NAND | дать комментарий о корректности работы
 	XOR | дать комментарий о корректности работы
 
-[(Скриншот сохранения на диск)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/2.jpg)
-[(Скриншот запуска)](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/1.jpg)
+[!image](https://github.com/Nthokar/lab-work_1/tree/main/screenshots/2.jpg)
 
 
 - Для Unity в отчете привести скриншоты вывода сообщения Hello World в консоль.
@@ -52,8 +51,10 @@
 
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох от обучения.
-Ход работы:
-	1. 
+
+![image](screenshots/2.jpg)
+
+
 
 
 ## Задание 3
