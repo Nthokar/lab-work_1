@@ -61,12 +61,15 @@
 ### Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох от обучения.
 
 - график зависиммосит для операции OR
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/OR.png)
 
 - график зависиммосит для операции AND
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/AND.png)
 
 - график зависиммосит для операции NAND
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/NAND.png)
 
 
