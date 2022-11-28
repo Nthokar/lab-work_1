@@ -41,26 +41,42 @@
 	NAND | дать комментарий о корректности работы
 	XOR | дать комментарий о корректности работы
 
+- Скриншот работы перцептрона для логической операции OR, работа происходи корректно
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/OR_Unity.jpg)
 
-- Для Unity в отчете привести скриншоты вывода сообщения Hello World в консоль.
+- Скриншот работы перцептрона для логической операции AND, работа происходи корректно
 
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/AND_Unity.jpg)
 
+- Скриншот работы перцептрона для логической операции NAND, работа происходи корректно
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/NAND_Unity.jpg)
 
+- Скриншот работы перцептрона для логической операции XOR, работа происходи не корректно, это тем, что перцептрон не умеет решать подобные задачи
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/XOR_Unity.jpg)
+
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох от обучения.
 
-![image](screenshots/2.jpg)
+- график зависиммосит для операции OR
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/OR.png)
 
+- график зависиммосит для операции AND
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/AND.png)
 
+- график зависиммосит для операции NAND
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/NAND.png)
 
 
 ## Задание 3
-### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
+### Построить визкальную модель работу перцептрона на сцене в Unity.
 
+- Сцены с визуальными моделями созданны для логический операций: OR, AND, NAND под соответсвующими названиями: OR_Example, AND_Example, NAND_Example.
+- Пример работы сцены с оператором NAND
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/NAND_Example1.jpg)
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_4/screenshots/NAND_Example2.jpg)
 ## Выводы
 
 Абзац умных слов о том, что было сделано и что было узнано.
