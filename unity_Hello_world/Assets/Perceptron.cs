@@ -62,7 +62,7 @@ public class Perceptron : MonoBehaviour {
 		bias += error;
 	}
 
-	double CalcOutput(double i1, double i2)
+	public double CalcOutput(double i1, double i2)
 	{
 		double[] inp = new double[] {i1, i2};
 		double dp = DotProductBias(weights,inp);
