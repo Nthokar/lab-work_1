@@ -81,13 +81,17 @@ behaviors:
 start
 
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_5/screenshots/startEnvironment.jpg)
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_5/screenshots/startLosses.jpg)
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_5/screenshots/startPolicy.jpg)
 
 with changes in economic.yaml
 
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_5/screenshots/ExampleEnvironment.jpg)
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_5/screenshots/ExampleLosses.jpg)
+
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_5/screenshots/ExamplePolicy.jpg)
 
 Cumulative Rewards - Накопленное вознаграждение, должно постоянно увеличиваться пока не дойдет до стабильного значения.
