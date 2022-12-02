@@ -88,7 +88,7 @@ start
 
 with changes in economic.yaml
 
-![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_5/screenshots/ExampleEnvironment.jpg)
+![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_5/screenshots/ExampleEnviroment.jpg)
 
 ![image](https://github.com/Nthokar/lab-work_1/blob/lab_work_5/screenshots/ExampleLosses.jpg)
 
